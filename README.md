@@ -236,7 +236,7 @@ def lambda_handler(event, context):
 
 ```
 ### Step 3: AWS Resource Configuration
--  **SES Setup**: Verify the sending email address (e.g., My own: guptashrey555@gmail.com) in SES.
+-  **SES Setup**: Verify the sending email address (e.g., My own: akashsmart118@gmail.com) in SES.
 -  **S3 Bucket (optional)**: Store the PDF files for offer and rejection letters if accessing remotely.
 -  **Lambda Deployment**: Deploy the Lambda function via the AWS Management Console. Ensure it has necessary permissions for SES and S3 (if using S3 for PDFs).
 ## Testing
@@ -270,4 +270,4 @@ MailMatrix provides an efficient, secure, and scalable solution for sending bulk
 - Use CloudWatch logs and dashboards for performance tuning and troubleshooting.
 - Ensure S3 buckets are secure by enabling server-side encryption and limiting access via bucket policies.
 
-[![GitHub](https://img.shields.io/badge/GitHub-shreykumar33-B22222?style=flat-square&logo=github)](https://github.com/shreykumar33)
+
