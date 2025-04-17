@@ -170,9 +170,9 @@ use_case/
 
 | Email              | Name           | Status    | Attachment_File            |
 |--------------------|----------------|-----------|----------------------------|
-| shrey@example.com   | Shrey Kumar    | Offer     | offer_shrey_kumar.pdf      |
-| shreya@example.com  | Shreya Mehta   | Rejection | rejection_shreya_mehta.pdf |
-| ramesh@example.com  | Ramesh Verma   | Offer     | offer_ramesh_verma.pdf     |
+| akash@example.com   | Akash    | Offer     | offer_akash_a.pdf      |
+| arumugam@example.com  | Arumugam   | Rejection | rejection_arumugam_v.pdf |
+| praveen@example.com  | Praveen   | Offer     | offer_praveen_a.pdf     |
 
 The CSV file should contain the following columns:
 - **Email**: Candidate's email address.
